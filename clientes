@@ -1,0 +1,85 @@
+{
+	"BARRIO": "",
+	"CEDULA": "",
+	"CELULAR": "",
+	"CIUDAD": "",
+	"CREDITOS": {
+		"CONDICIONDEPAGO": {
+			"MENSUAL": {
+				"ESTADODECUENTA": "",
+				"FECHACOBRO": "",
+				"IDCOBRO": "",
+				"VALORCUOTA": "",
+				"VCREDITO": ""
+			},
+			"QUINCENAL": {
+				"ESTADODECUENTA": "",
+				"FECHACOBRO": "",
+				"IDCOBRO": "",
+				"VALORCUOTA": "",
+				"VCREDITO": ""
+			},
+			"SEMANAL": {
+				"ESTADODECUENTA": "",
+				"FECHACOBRO": "",
+				"IDCOBRO": "",
+				"VALORCUOTA": "",
+				"VCREDITO": ""
+			}
+		},
+		"FECHAINICIAL": "",
+		"IDCREDITO": "",
+		"NCUOTAS": "",
+		"TOTALCREDITO": "",
+		"VALORCUOTAS": "",
+		"VINTERES": "",
+		"VSOLICITADO": ""
+	},
+	"DIRECCION": "",
+	"ID": "",
+	"LATITUD": "",
+	"LONGITUD": "",
+	"NOMBRE": ""
+}{
+	"BARRIO": "",
+	"CEDULA": "",
+	"CELULAR": "",
+	"CIUDAD": "",
+	"CREDITOS": {
+		"CONDICIONDEPAGO": {
+			"MENSUAL": {
+				"ESTADODECUENTA": "",
+				"FECHACOBRO": "",
+				"IDCOBRO": "",
+				"VALORCUOTA": "",
+				"VCREDITO": ""
+			},
+			"QUINCENAL": {
+				"ESTADODECUENTA": "",
+				"FECHACOBRO": "",
+				"IDCOBRO": "",
+				"VALORCUOTA": "",
+				"VCREDITO": ""
+			},
+			"SEMANAL": {
+				"ESTADODECUENTA": "",
+				"FECHACOBRO": "",
+				"IDCOBRO": "",
+				"VALORCUOTA": "",
+				"VCREDITO": ""
+			}
+		},
+		"FECHAINICIAL": "",
+		"IDCREDITO": "",
+		"NCUOTAS": "",
+		"TOTALCREDITO": "",
+		"VALORCUOTAS": "",
+		"VINTERES": "",
+		"VSOLICITADO": ""
+	},
+	"DIRECCION": "",
+	"ID": "",
+	"LATITUD": "",
+	"LONGITUD": "",
+	"NOMBRE": ""
+}
